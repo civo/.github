@@ -8,11 +8,11 @@ Welcome to Civo on GitHub</h3>
   <a href="https://civo.com/academy">Civo Academy</a>
 </p>
 
-<h4 > The cloud native service provider </h4>
+<h4 > The cloud native service provider: </h4>
 <p>
 Launch superfast Kubernetes clusters in less than 2 minutes.
 
-The first pure play cloud native service powered only by Kubernetes
+The first pure play cloud native service powered only by Kubernetes:
 
 - Blazing fast cluster launch times in under 90 seconds
 - Simplified developer experience
@@ -20,11 +20,11 @@ The first pure play cloud native service powered only by Kubernetes
 </p>
 
 <h3 align="center"><a href="https://www.civo.com/signup"> Try Civo for 1 month with $250 free credit </a></h3>
-<h3 align="center">Contribute to Civo open source projects</h3>
+<h3 align="center">Contribute to Civo open source projects.</h3>
 <p align="center">
 
 - <a href="https://github.com/civo/cli">Civo CLI</a> Golang based cli that can be used to interact with Civo api and create resources on Civo cloud without interacting with UI. 
 - <a href="https://github.com/civo/kubernetes-marketplace">Kubernetes Marketplace</a> Open source markeplace which is for Civo kubernetes one click app install whicle cluster creations.
-- <a href="https://github.com/civo/terraform-provider-civo">Civo Terraform provider</a> IAC tool to create resources on Civo cloud via Terraform
-- <a href="https://github.com/crossplane-contrib/provider-civo">Civo Crossplane provider</a> IAC tool to create resources on Civo cloud via crossplane
+- <a href="https://github.com/civo/terraform-provider-civo">Civo Terraform provider</a> IAC tool to create resources on Civo cloud via Terraform.
+- <a href="https://github.com/crossplane-contrib/provider-civo">Civo Crossplane provider</a> IAC tool to create resources on Civo cloud via crossplane.
 </p>
