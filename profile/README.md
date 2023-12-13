@@ -23,8 +23,8 @@ The first pure play cloud native service powered only by Kubernetes
 <h3 align="center">Contribute to Civo open source projects</h3>
 <p align="center">
 
-- <a href="https://github.com/civo/cli">Civo CLI</a> Golang based cli that can be used to interact with Civo api and create resources on Civo cloud without interacting with UI. 
-- <a href="https://github.com/civo/kubernetes-marketplace">Kubernetes Marketplace</a> Open source markeplace which is for Civo kubernetes one click app install with cluster creations.
-- <a href="https://github.com/civo/terraform-provider-civo">Civo Terraform provider</a> IAC tool to create resources on Civo cloud via Terraform
-- <a href="https://github.com/crossplane-contrib/provider-civo">Civo Crossplane provider</a> IAC tool to create resources on Civo cloud via crossplane
+- <a href="https://github.com/civo/cli">Civo CLI</a> Golang based CLI that can be used to interact with the Civo API and create cloud resources on Civo without interacting with the web UI.
+- <a href="https://github.com/civo/kubernetes-marketplace">Kubernetes Marketplace</a> Open source markeplace for Civo Kubernetes one-click app installation on clusters
+- <a href="https://github.com/civo/terraform-provider-civo">Civo Terraform provider</a> Infrastructure as Code (IAC) tool to create resources on Civo via Terraform
+- <a href="https://github.com/crossplane-contrib/provider-civo">Civo Crossplane provider</a> IAC tool to create resources on Civo via Crossplane
 </p>
