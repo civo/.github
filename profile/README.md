@@ -1,7 +1,7 @@
 <h3 align="center">
 Welcome to Civo on GitHub</h3> 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/civo" alt="profile views"> •  
+  <img src="https://komarev.com/ghpvc/?username=civo" alt="profile views" background-color:"green"> •  
   <a href="https://twitter.com/intent/follow?screen_name=CivoCloud&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/CivoCloud?label=%40CivoCloud&style=social"></a>  •
   <a href="https://www.civo.com">Website</a> •
   <a href="https://twitter.com/intent/follow?screen_name=CivoCloud&tw_p=followbutton">Twitter</a> •
