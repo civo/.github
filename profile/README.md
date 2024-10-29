@@ -1,31 +1,27 @@
-<h3 align="center">
-Welcome to Civo on GitHub</h3> 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=civo" alt="profile views" background-color:"green"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=CivoCloud&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/CivoCloud?label=%40CivoCloud&style=social"></a>  •
-  <a href="https://www.civo.com">Website</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=CivoCloud&tw_p=followbutton">Twitter</a> •
-  <a href="https://www.civo.com/academy">Civo Academy</a>
+  <a href="https://www.civo.com/" target="_blank"><img src="https://www.civo.com/brand-assets/logo/full-colour/civo-logo-fullcolour.png" width="350"></a>
 </p>
+<h1 align="center">Welcome to Civo on GitHub</h1>
 
-<h4 > The cloud native service provider </h4>
-<p>
-Launch superfast Kubernetes clusters in less than 2 minutes.
+<a href="https://www.civo.com/"><img src="https://img.shields.io/badge/Civo-239DFF.svg?style=for-the-badge&logo=Civo&logoColor=white" alt="civo"></a>
 
-The first pure play cloud native service powered only by Kubernetes
-
-- Blazing fast cluster launch times in under 90 seconds
-- Simplified developer experience
-- Transparent pricing from just $4 a month
-</p>
-
-<h3 align="center"><a href="https://dashboard.civo.com/signup"> Try Civo for 1 month with $250 free credit </a></h3>
-<h3 align="center">Contribute to Civo open source projects</h3>
 <p align="center">
-
-- <a href="https://github.com/civo/cli">Civo CLI</a> Golang based CLI that can be used to interact with the Civo API and create cloud resources on Civo without interacting with the web UI.
-- <a href="https://github.com/civo/civogo">Civo Go</a> Golang based SDK for interacting with civo APIs.
-- <a href="https://github.com/civo/kubernetes-marketplace">Kubernetes Marketplace</a> Open source markeplace for Civo Kubernetes one-click app installation on clusters
-- <a href="https://github.com/civo/terraform-provider-civo">Civo Terraform provider</a> Infrastructure as Code (IAC) tool to create resources on Civo via Terraform
-- <a href="https://github.com/crossplane-contrib/provider-civo">Civo Crossplane provider</a> IAC tool to create resources on Civo via Crossplane
+  &nbsp;<img src="https://komarev.com/ghpvc/?username=civo">
+  &nbsp;<a href="(https://twitter.com/intent/follow?screen_name=CivoCloud&tw_p=followbutton"><img src="https://img.shields.io/badge/CivoCloud-0F273E?logo=x" alt="civo_twitter"></a> 
+  &nbsp;<a href="https://www.civo.com"><img src="https://img.shields.io/badge/Website-0F273E?logo=searxng" alt="website" /></a>
+  &nbsp;<a href="https://www.civo.com/academy"><img src="https://img.shields.io/badge/%E2%9C%A8-Civo Academy%20-239D0F.svg?style=flat&colorA=0a0a0a" alt="acad_website" /></a>
 </p>
+
+<h3 > Civo specializes in offering infrastructure and services optimized for cloud native computing.</h3>
+<p>Blazing fast, simplified, managed Kubernetes. Host your applications and scale as and when you need, with 90-second cluster launch times and a free control plane.</p>
+
+> [!TIP]  
+> <h3><a href="https://dashboard.civo.com/signup"> Try Civo for 1 month with $250 free credit </a></h3>
+
+## Contribute to Civo open source projects
+
+  - [Civo CLI](https://github.com/civo/cli) -  Golang based CLI that can be used to interact with the Civo API and create cloud resources on Civo without interacting with the web UI.
+  - [Civo Go](https://github.com/civo/civogo) - Golang based SDK for interacting with civo APIs.
+  - [Kubernetes Marketplace](https://github.com/civo/kubernetes-marketplace) - Open source markeplace for Civo Kubernetes one-click app installation on clusters
+  - [Civo Terraform provider](https://github.com/civo/terraform-provider-civo) - Infrastructure as Code (IAC) tool to create resources on Civo via Terraform
+  - [Civo Crossplane provider](https://github.com/crossplane-contrib/provider-civo) - IAC tool to create resources on Civo via Crossplane
